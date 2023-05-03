@@ -1,6 +1,7 @@
 # BugShooter
 
-Hello, welcome to my BugShooter game. This was a computer science assignment written in Java.
+Hello, welcome to my BugShooter game. This is a computer science assignment written in Java.
+
 Growing up, I played a lot of Flash games on Newgrounds.com and my favorite were top down zombie shooters, so I challenged myself to make one. 
 Making this game was a fun, educational, and stressful experience that took a lot of banging my head on the problem but things turned out quite nicely.
 One day, it occurred to me that instead of a zombie shooter, a bug shooter game would be more appropriate to reflect my experience in making this game.
