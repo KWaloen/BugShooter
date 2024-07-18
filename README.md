@@ -49,7 +49,7 @@ In order to restart the game, you have to close and reopen the game.
 
 Enjoy!
  
-Sprites created by Evangelia Koutsoukou aka Apocalypse
+Sprites created by Eva aka Apocalypse
 
 A demonstration video is available here:
 https://youtu.be/456Mii_hQ90
